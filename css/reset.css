@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'BomberUrban';
+    src: url('../fonts/BomberUrban-Regular.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UrbanBlocker';
+    src: url('../fonts/Urban\ Blocker\ PersonalUseOnly.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'aAnotherTag';
+    src: url('../fonts/aAnotherTag.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NextUpsBlack';
+    src: url('../fonts/Next\ Ups\ Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NextUps';
+    src: url('../fonts/Next\ Ups.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DonGraffiti';
+    src: url('../fonts/DonGraffiti.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+    font-family: "BomberUrban";
+    padding: 0;
+    margin: 0;
+}

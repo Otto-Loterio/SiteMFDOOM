@@ -1,0 +1,74 @@
+
+.principal {
+    background-color: #546b59;
+    padding: 3rem;
+}
+
+.titleBiografia {
+    font-size: 24pt;
+    padding: 1rem;
+    padding-bottom: 3rem;
+    text-align: center;
+    -webkit-text-stroke: .5px #012200;
+    color: #023600;
+    font-family: 'NextUpsBlack';
+}
+
+.subTitleBiografia {
+    font-size: 30pt;
+    padding: 1rem;
+    text-align: center;
+    -webkit-text-stroke: .5px #252430;
+    color: rgb(93, 92, 102);
+    font-family: 'DonGraffiti';
+}
+
+.textBiografia {
+    margin-right:  12.5rem;
+    margin-left: 12.5rem;
+    justify-content: center;
+    text-align: center;
+    font-family: 'BomberUrban';
+    font-size: 18pt;
+    color: #000000;
+}
+
+.imagemBanner {
+        background-image: url("../img/bannerDOOM.jpg");
+        background-size: cover;               
+        background-repeat: no-repeat;         
+        background-position: center center;   
+        width: 100vw;                         
+        height: 60vh;                         
+        margin: 0 auto;                             
+}
+
+.Doomsday:hover {
+    color: #D72326;
+    -webkit-text-stroke: 1px #000000;
+}
+
+.MMFOOD:hover {
+    color: #A6B95F;
+    -webkit-text-stroke: 1px #000000;
+}
+
+.Madvillainy:hover {
+    color: #DDDDDD;
+    -webkit-text-stroke: 1px #000000;
+}
+
+.Doomsday {
+    text-decoration: none;
+    color: rgb(44, 44, 44);
+}
+
+.MMFOOD {
+    text-decoration: none;
+    color: rgb(44, 44, 44);
+}
+
+.Madvillainy {
+    text-decoration: none;
+    color: rgb(44, 44, 44);    
+}

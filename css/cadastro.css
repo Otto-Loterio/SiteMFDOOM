@@ -1,0 +1,190 @@
+.principal {   
+    background-color: #546b59;
+    padding: 3rem;
+}
+
+.titleCadas {
+    font-size: 24pt;
+    padding: 1rem;
+    padding-bottom: 3rem;
+    text-align: center;
+    -webkit-text-stroke: .2px #012200;
+    color: #023600;
+    font-family: 'NextUpsBlack';
+}
+
+.inicioCadastro {
+    padding: 1rem;
+    border-radius: .3rem;
+    background-color: #0d3f03;
+    border: 3px solid #062201;
+    text-align: center;
+    font-family: "DonGraffiti";
+    font-size: 25pt;
+    -webkit-text-stroke: 1px #494949;
+    color: rgb(196, 196, 196);
+}
+
+.fieldset { 
+    padding: 2rem;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    width: 40rem;
+    height: 76rem;
+    background-color: #6a8570;
+    border: 3px solid #104b04;
+    border-radius: .6rem;
+}
+
+.inputUsuario {
+    font-family: humanist sans-serif;
+    background: none;
+    border: none;
+    border-bottom: 1px solid #104b04;
+    outline: none;
+    color: white;
+    font-size: 18pt;
+    width: 100%;
+}
+
+.radioInput {
+    font-size: 15pt;
+}
+
+.nomeInput {
+    color: #000000;
+    font-size: 24pt;
+    position: relative;
+}
+
+.inputRadio {
+    text-align: center;
+    -webkit-text-stroke: .8px #494949;
+    color: rgb(196, 196, 196);
+    font-size: 22pt;
+}
+
+.inputCheckbox {
+    text-align: center;
+    -webkit-text-stroke: 1px #494949;
+    color: rgb(196, 196, 196);
+    font-size: 22pt;
+}
+
+.botaoEnviar {
+    font-size: 18pt;
+    padding: 2rem;
+    text-align: center;
+    background-color: #0d3f03;
+    border: 3px solid #062201;
+    border-radius: .3rem;
+}
+
+.botaoEnviar:active {
+    background-color: #092c02;
+}
+
+.comoConheceu {
+    padding-left: 3px;
+    padding-right: 3px;
+    font-size: 15pt;
+    text-align: center;
+}
+
+.albumFavorito {
+    font-size: 15pt;
+}
+
+
+#Doomsday {
+    font-family: 'BomberUrban';
+    color: #D72326;
+    -webkit-text-stroke: .2px #000000;
+}
+#MMFOOD {
+    font-family: 'BomberUrban';
+    color: #A6B95F;
+    -webkit-text-stroke: .2px #000000;
+}
+
+#BornLikeThis {
+    font-family: 'BomberUrban';
+    color: #CCA46C;
+    -webkit-text-stroke: .2px #000000;
+}
+
+#Madvillainy {
+    font-family: 'BomberUrban';
+    color: #DDDDDD;
+    -webkit-text-stroke: .2px #000000;
+}
+
+#TheMouseAndTheMask {
+    font-family: 'BomberUrban';
+    color: #EADAB5;
+    -webkit-text-stroke: .2px #000000;
+}
+
+#VaudevilleVillain {
+    font-family: 'BomberUrban';
+    color: #A49D99;
+    -webkit-text-stroke: .2px #000000;
+}
+
+#VenomousVillain {
+    font-family: 'BomberUrban';
+    color: #674D71;
+    -webkit-text-stroke: .2px #000000;
+}
+
+#TakeMeToYourLeader {
+    font-family: 'BomberUrban';
+    color: #FE0000;
+    -webkit-text-stroke: .2px #000000;
+}
+
+#NehruvianDOOM {
+    font-family: 'BomberUrban';
+    -webkit-text-stroke: .2px #000000;
+    color: #A5C7B9;
+}
+
+#select {
+    font-family: 'BomberUrban';
+    color: #000000;
+    -webkit-text-stroke: .2px #000000;
+}
+
+.botaoEnviarContainer {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1rem;
+}
+
+.listaAlbumFav {
+    padding: 0;
+    margin: 0;
+}
+
+.Selecione {
+    font-size: 16pt;
+    align-items: center;
+}
+
+.itemListaAlbumFav {
+    list-style: none;
+    padding: 3px 0;
+}
+
+.imagemBanner {
+        background-image: url("../img/bannerDOOM.png");
+        background-size: cover;               
+        background-repeat: no-repeat;         
+        background-position: center center;   
+        width: 100vw;                         
+        height: 60vh;                         
+        margin: 0 auto;                             
+}

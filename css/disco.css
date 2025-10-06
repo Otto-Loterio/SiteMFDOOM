@@ -1,0 +1,118 @@
+ .principal {
+    background-color: #546b59;
+    padding: 3rem;
+}
+
+.titleDiscogra {
+    font-size: 24pt;
+    padding: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    -webkit-text-stroke: .2px #012200;
+    color: #023600;
+    font-family: 'NextUpsBlack';
+}
+
+.subTitleDiscogra{
+    font-size: 30pt;
+    padding: 1rem;
+    text-align: center;
+    -webkit-text-stroke: .2px #252430;
+    color: rgb(93, 92, 102);
+    font-family: 'DonGraffiti';
+}
+
+.albumName {
+    font-size: 25pt;
+    font-family: 'BomberUrban';
+}
+
+.fotoAlbum {
+    user-select: none;
+    width: 25rem;
+}
+
+.tresAlbuns {
+    display: flex;
+    justify-content: center;
+}
+
+.listaAlbuns {
+    padding: 1rem;
+    display: flex;
+}
+
+.conjuntoAlbum {
+    text-align: center;
+    list-style: none;
+    padding: 1rem;
+}
+
+.textDiscogra {
+    margin-right:  12.5rem;
+    margin-left: 12.5rem;
+    font-family: 'BomberUrban';
+    text-align: center;
+    font-size: 18pt;
+    color: #000000;
+}
+
+.conjuntoAlbum a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.Doomsday :hover {
+    color: #D72326;
+    -webkit-text-stroke: .2px #000000;
+}
+
+.MMFOOD :hover {
+    color: #A6B95F;
+    -webkit-text-stroke: .2px #000000;
+}
+
+.BornLikeThis :hover {
+    color: #CCA46C;
+    -webkit-text-stroke: .2px #000000;
+}
+
+.Madvillainy :hover {
+    color: #DDDDDD;
+    -webkit-text-stroke: .2px #000000;
+}
+
+.TheMouseAndTheMask :hover {
+    color: #EADAB5;
+    -webkit-text-stroke: .2px #000000;
+}
+
+.VaudevilleVillain :hover {
+    color: #A49D99;
+    -webkit-text-stroke: .2px #000000;
+}
+
+.VenomousVillain :hover {
+    color: #674D71;
+    -webkit-text-stroke: .2px #000000;
+}
+
+.TakeMeToYourLeader :hover {
+    color: #FE0000;
+    -webkit-text-stroke: .2px #000000;
+}
+
+.NehruvianDOOM :hover {
+    color: #A5C7B9;
+    -webkit-text-stroke: .2px #000000;
+}
+
+.imagemBanner {
+        background-image: url("../img/bannerDOOM.png");
+        background-size: cover;               
+        background-repeat: no-repeat;         
+        background-position: center center;   
+        width: 100vw;                         
+        height: 60vh;                         
+        margin: 0 auto;                             
+}

@@ -1,0 +1,126 @@
+/* Header, Footer e Nav */
+
+.logo1, .logo2 {
+    user-select: none;
+    width: 8rem;
+}
+
+.titulos {
+    text-align: center;
+}
+
+header {
+    padding: 1rem;
+    background-color: #1a2e1f;
+    display: flex;                  
+    justify-content: space-between;   
+    align-items: center;           
+}
+
+.title {
+    -webkit-text-stroke: .5px #851e16;
+    font-family: "UrbanBlocker";
+    font-size: 100pt;
+    color: #db2b1e;
+}
+
+.subtitle {
+    font-size: 30pt;
+    font-family: "UrbanBlocker";
+    -webkit-text-stroke: .5px #57140f;
+    color: #b6261c;
+}
+
+.navegacao {
+    background-color: #26442e;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.listaNav {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    gap: 40px;
+}
+
+.itemListaNav {
+    margin: 0;
+}
+
+.imagemBanner {
+        background-image: url("../img/bannerDOOM.png");
+        background-size: cover;               
+        background-repeat: no-repeat;         
+        background-position: center center;   
+        width: 100vw;                         
+        height: 60vh;                         
+        margin: 0 auto;                             
+}
+
+.navegacao a {
+    padding: 1rem;
+    font-family: "DonGraffiti";
+    -webkit-text-stroke: .5px #494949;
+    color: rgb(196, 196, 196);
+    text-decoration: none;
+    font-size: 23pt;
+}
+
+.navegacao a:hover {
+    color: rgb(216, 216, 216);
+}
+
+.footer {
+    padding: 1rem;
+    background-color: #1a2e1f;
+}
+
+.contato {
+    text-align: center;
+    justify-content: center;
+    -webkit-text-stroke: .1px #494949;
+    color: rgb(196, 196, 196);
+    font-family: "UrbanBlocker";
+    font-size: 26pt;
+}
+
+.wikipedia {
+    padding: 1rem;
+    text-decoration: none;
+    font-size: 20pt;
+    text-align: center;
+    -webkit-text-stroke: .5px rgb(74, 69, 141);
+    color: #7f77ad;
+    font-family: 'NextUpsBlack';
+}
+
+.madvillainy .wikipedia :hover{
+    color: rgb(75, 75, 75)
+}
+
+.wikipedia :hover{
+    color: #9693ac
+}
+
+body {
+    overflow-x: hidden;
+}
+.imgDOOM{
+    margin: 2rem;
+    margin-left: 39rem;
+
+}
+
+.imgDivDOOM{
+    justify-content: center;
+    align-items: center;
+}
+
+.itemListaDOOM{
+    font-size: 20pt;
+    text-align: center;
+    list-style: none;
+}
+
